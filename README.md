@@ -1,5 +1,4 @@
-Feel free to reach me via email. If you do coding, you probably
-know how to find my email address.
+Feel free to reach me via email. This is the pubkey in case you need.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
