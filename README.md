@@ -1,3 +1,6 @@
+Feel free to reach me via email. If you do coding, you probably
+know how to find my email address.
+
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v1
